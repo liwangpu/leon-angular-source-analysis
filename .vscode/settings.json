@@ -1,6 +1,7 @@
 {
     "git.ignoreLimitWarning": true,
     "files.exclude": {
+        ".gitignore": true,
         "**/docs": true,
         "**/test": true,
         "**/testing": true,
@@ -11,6 +12,7 @@
         "modules": true,
         "scripts": true,
         "third_party": true,
-        "tools": true
+        "tools": true,
+        "WORKSPACE": true
     }
 }
