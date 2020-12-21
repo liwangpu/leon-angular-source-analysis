@@ -1,0 +1,16 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/docs": true,
+        "**/test": true,
+        "**/testing": true,
+        "aio": true,
+        "dev-infra": true,
+        "goldens": true,
+        "integration": true,
+        "modules": true,
+        "scripts": true,
+        "third_party": true,
+        "tools": true
+    }
+}
