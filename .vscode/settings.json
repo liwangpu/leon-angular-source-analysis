@@ -14,5 +14,6 @@
         "third_party": true,
         "tools": true,
         "WORKSPACE": true
-    }
+    },
+    "bookmarks.sideBar.expanded": true
 }

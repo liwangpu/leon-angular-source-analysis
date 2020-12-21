@@ -1,0 +1,12 @@
+[
+	{
+		"path": "$ROOTPATH$\\packages\\core\\src\\change_detection\\change_detector_ref.ts",
+		"bookmarks": [
+			{
+				"line": 66,
+				"column": 39,
+				"label": "ChangeDetectorRef"
+			}
+		]
+	}
+]
