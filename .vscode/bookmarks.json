@@ -8,5 +8,15 @@
 				"label": "ChangeDetectorRef"
 			}
 		]
+	},
+	{
+		"path": "$ROOTPATH$\\packages\\core\\src\\view\\view.ts",
+		"bookmarks": [
+			{
+				"line": 360,
+				"column": 34,
+				"label": "checkAndUpdateView"
+			}
+		]
 	}
 ]
